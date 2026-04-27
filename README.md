@@ -1,33 +1,55 @@
-# E-commerce Data Analysis & Dashboard
+# 🛒 E-commerce Data Analysis & Dashboard
 
-## Overview
-This project analyzes an e-commerce dataset to understand sales performance and customer behavior.
+## 📊 Overview
+This project analyzes a real-world e-commerce dataset (100K+ orders) to understand sales performance, customer behavior, and delivery impact on customer satisfaction.
 
-## Tools Used
+---
+
+## 🛠️ Tools & Technologies
 - Python (Pandas)
 - Power BI
-- SQL concepts
+- Data Cleaning & Transformation
 
-## Key Insights
-- Revenue trends show seasonal variation
-- Customer spending is unevenly distributed
-- Delivery delays significantly impact customer satisfaction
+---
 
-## Dashboard Features
-- Total revenue, orders, and average delivery time
-- Monthly revenue trends
-- Orders per month
-- Top customers analysis
-- Delivery vs reviews relationship
+## 🔍 Key Insights
+- 📈 Revenue shows clear monthly trends and fluctuations
+- 👥 Customer spending is highly uneven (few high-value customers)
+- 🚚 Delivery delays significantly impact customer satisfaction
+  - 1-star reviews ≈ 20 days delivery
+  - 5-star reviews ≈ 10 days delivery
 
-- ## Dashboard Preview
-![Dashboard] <img width="578" height="320" alt="image" src="https://github.com/user-attachments/assets/ab5dcb15-d495-40c1-99c9-9c4025f1f1cb" />
+---
+
+## 📊 Dashboard Features
+- Total Revenue, Orders, and Average Delivery Time (KPIs)
+- Monthly Revenue Trend
+- Orders per Month
+- Top Customers Analysis
+- Delivery Time vs Customer Reviews
+
+---
+
+## 🖼️ Dashboard Preview
+![Dashboard]<img width="578" height="320" alt="image" src="https://github.com/user-attachments/assets/ab5dcb15-d495-40c1-99c9-9c4025f1f1cb" />
 
 
-## Files
-- `01_eda.ipynb` → Data cleaning & analysis
-- `dashboard.pbix` → Power BI dashboard
-- `data/processed/` → Clean datasets for visualization
+---
 
-## Conclusion
-The analysis shows that improving delivery performance can enhance customer satisfaction and business outcomes.
+## 📁 Project Structure
+data/
+processed/
+notebooks/
+01_eda.ipynb
+dashboard.pbix
+
+
+---
+
+## 📌 Conclusion
+Improving delivery performance can directly enhance customer satisfaction and overall business performance.
+
+---
+
+## 👤 Author
+Jolanar
