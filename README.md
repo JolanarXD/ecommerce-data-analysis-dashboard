@@ -20,6 +20,10 @@ This project analyzes an e-commerce dataset to understand sales performance and 
 - Top customers analysis
 - Delivery vs reviews relationship
 
+- ## Dashboard Preview
+![Dashboard] <img width="578" height="320" alt="image" src="https://github.com/user-attachments/assets/ab5dcb15-d495-40c1-99c9-9c4025f1f1cb" />
+
+
 ## Files
 - `01_eda.ipynb` → Data cleaning & analysis
 - `dashboard.pbix` → Power BI dashboard
